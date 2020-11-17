@@ -7,3 +7,7 @@ void main(){
 void Monday(){
 	printf("The day is first day in a week!And before Tuesday!/n");
 }
+
+void add(int a,int b){
+	return a+b;
+}
